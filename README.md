@@ -24,3 +24,7 @@ My first n8n automation project: daily trail recommendation with weather checks 
 1. Import the `trail-weather-automation.json` file into your own n8n instance.  
 2. Connect your Google Sheets, Gmail, and Weather API credentials.  
 3. Schedule the workflow to run daily.  
+
+## DEMO
+Workflow of the Automation(Workflow.png)
+Example Mail of Automation(Example.png)
